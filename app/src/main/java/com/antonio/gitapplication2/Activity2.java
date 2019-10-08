@@ -17,4 +17,7 @@ public class Activity2 extends AppCompatActivity {
     }
 
     private  void desdeLocal(){}
+
+
+    private void desdeRemoto(){}
 }

@@ -6,5 +6,7 @@ package com.antonio.gitapplication2;
 public class Util {
 
     private void paraAmend(){}
+    
+    private void desdeRemoto(){}
 
 }

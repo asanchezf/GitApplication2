@@ -9,6 +9,8 @@ public class Util {
 
 
     private void paraAmend(){}
+    
+    private void desdeRemoto(){}
 
 
 

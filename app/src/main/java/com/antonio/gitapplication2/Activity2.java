@@ -15,4 +15,6 @@ public class Activity2 extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity2);
     }
+
+    private  void desdeLocal(){}
 }
